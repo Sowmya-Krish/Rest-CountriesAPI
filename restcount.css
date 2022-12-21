@@ -1,0 +1,23 @@
+
+body{
+    background: rgb(248, 233, 16);
+       }
+  
+  .card-header{
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  }  
+  .card{
+    background: white;
+   
+  }
+  .card-text{
+  text-align: center;
+  font-size: 18px;
+  }
+  
+  img{
+    border: 1px solid white;
+  
+  }
